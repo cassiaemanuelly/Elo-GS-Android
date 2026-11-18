@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Elo</string>
+
+    <string name="home_titulo">Elo</string>
+    <string name="home_subtitulo">Proteção contra golpes</string>
+    <string name="logo_descricao">Logotipo do Elo</string>
+    <string name="resumo_titulo">Antes do Pix, desconfie.</string>
+    <string name="resumo_texto">Conheça os golpes mais denunciados pela comunidade e aprenda a reconhecê-los na hora, com a sua família junto.</string>
+    <string name="resumo_golpes">%1$d golpes mapeados</string>
+    <string name="resumo_denuncias">%1$s denúncias</string>
+    <string name="secao_destaques">Golpes em alta</string>
+    <string name="secao_destaques_apoio">Os mais denunciados nesta semana</string>
+    <string name="secao_categorias">Filtrar por canal</string>
+    <string name="secao_lista">Golpes mapeados (%1$d)</string>
+    <string name="categoria_todas">Todas</string>
+    <string name="lista_vazia">Nenhum golpe encontrado para esta categoria.</string>
+
+    <string name="denuncias">%1$s denúncias</string>
+    <string name="risco">Risco %1$s</string>
+    <string name="imagem_descricao">Ilustração do golpe %1$s</string>
+    <string name="destaque_selo">Em alta</string>
+
+    <string name="detalhe_titulo">Detalhes do golpe</string>
+    <string name="voltar">Voltar</string>
+    <string name="detalhe_como_chega">Como o golpe chega</string>
+    <string name="detalhe_sinal">Sinal de alerta</string>
+    <string name="detalhe_como_agir">Como agir</string>
+    <string name="detalhe_canais">Canais usados</string>
+    <string name="detalhe_comunidade">Denúncias da comunidade</string>
+    <string name="detalhe_comunidade_texto">%1$s pessoas denunciaram este golpe na base comunitária do Elo.</string>
+</resources>
